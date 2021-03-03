@@ -2,7 +2,7 @@
  ******************************************************************************
  * Software License Agreement (BSD License)
  *
- *  Copyright (c) 2020, Waco Giken Co., Ltd.
+ *  Copyright (c) 2021, Waco Giken Co., Ltd.
  *  All rights reserved.
  *
  *  Redistribution and use in source and binary forms, with or without
